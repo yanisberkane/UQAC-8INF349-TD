@@ -1,4 +1,4 @@
-# UQAC-8INF349-TD
+# Travaux Dirigés - Technologies Web avancées (UQAC - Hiver 2025)
 
 ## Installer Python sur Windows
 
